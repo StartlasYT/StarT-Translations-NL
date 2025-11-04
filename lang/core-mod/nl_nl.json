@@ -16,7 +16,7 @@
     "gtceu.bacterial_breeding_vat": "Bacterieël Fokken",
     "block.start_core.bacterial_breeding_vat": "Bacterieël Fokkingsvat ",
 
-    "gtceu.bacterial_runic_mutator": "Bacterieël Mutateren",
+    "gtceu.bacterial_runic_mutator": "Bacterieël Muteren",
     "block.start_core.bacterial_runic_mutator": "Bacteriële Runen-Mutator",
 
     "gtceu.bacterial_hydrocarbon_harvester": "Bacterieël Oogsten",
@@ -73,9 +73,9 @@
     "block.start_core.hv6": "§7De consumptie van de bacterie schaalt op met het §fMetabolisme §7van de bacterie.",
         "block.start_core.vat_description": "§7Een gespecialiseerde bioreactor ontworpen voor snelle bacteriële replicatie en evolutie. Het verwerkt een enkele bacterieel monster, duplicaten uitvoerend terwijl het tegelijkertijd gemuteerde varianten produceert, consistentie and diversiteit voor experimentele or industriële applicaties bevorderend.",
     "block.start_core.vat1": "§6Bacterieël Fokken:",
-    "block.start_core.vat2": "§Repliceer en muteer bacteriële kolonieën, producing a large amount for usage in Harvesting or Mutation.",
-    "block.start_core.vat3": "§7Produces §f16x Replicated§7 bacteria with the exact same type, stats and affinities.",
-    "block.start_core.vat4": "§7Produces §f16x Mutated§7 bacteria with the exact same type and affinities, but mutated stats depending on the §fMutatability §7of the bacteria.",
+    "block.start_core.vat2": "§Repliceer en muteer bacteriële kolonieën, en produceert een groot aantal voor gebruik bij het Oogsten of Muteren.",
+    "block.start_core.vat3": "§7Produceert §f16x Gerepliceerde§7 bacterieën met exact hetzelfde type, statistieken and affiniteiten.",
+    "block.start_core.vat4": "§7Produceert §f16x Gemuteerde§7 bacterieën met exact hetzelfde type en affiniteiten, maar gemuteerde statistieken afhankelijk van de §fMuteerbaarheid §7van de bacterie.",
     
     "tab.start_core.creative": "Star Technology Core",
 
