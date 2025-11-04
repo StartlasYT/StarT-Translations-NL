@@ -13,14 +13,14 @@
     "item.start_core.bacteria_petrospirillum_solvans": "§3Petrospirillum Solvans Bacteriekolonie",
     "item.start_core.bacteria_xylotoxibacter_aromatica": "§3Xylopseudomonas Creosotica Bacteriekolonie",
     
-    "gtceu.bacterial_breeding_vat": "Bacteriël Fokken",
-    "block.start_core.bacterial_breeding_vat": "Bacteriël Fokkingsvat ",
+    "gtceu.bacterial_breeding_vat": "Bacterieël Fokken",
+    "block.start_core.bacterial_breeding_vat": "Bacterieël Fokkingsvat ",
 
-    "gtceu.bacterial_runic_mutator": "Bacteriël Mutateren",
+    "gtceu.bacterial_runic_mutator": "Bacterieël Mutateren",
     "block.start_core.bacterial_runic_mutator": "Bacteriële Runen-Mutator",
 
-    "gtceu.bacterial_hydrocarbon_harvester": "Bacteriël Oogsten",
-    "block.start_core.bacterial_hydrocarbon_harvester": "Bacteriël Koolwaterstof Oogster",
+    "gtceu.bacterial_hydrocarbon_harvester": "Bacterieël Oogsten",
+    "block.start_core.bacterial_hydrocarbon_harvester": "Bacterieël Koolwaterstof Oogster",
 
     "behaviour.start_core.bacteria.primary_output": "§5Primaire productie",
     "behaviour.start_core.bacteria.any_affinity": "§dKan elke van de affiniteiten zijn",
@@ -72,8 +72,8 @@
     "block.start_core.hv5": "§7Het aantal van de tertiary output dat wordt geëxtraheerd is gelijk aan §f320mB * Production §7of the bacteria.",
     "block.start_core.hv6": "§7De consumptie van de bacterie schaalt op met het §fMetabolisme §7van de bacterie.",
         "block.start_core.vat_description": "§7Een gespecialiseerde bioreactor ontworpen voor snelle bacteriële replicatie en evolutie. Het verwerkt een enkele bacterieel monster, duplicaten uitvoerend terwijl het tegelijkertijd gemuteerde varianten produceert, consistentie and diversiteit voor experimentele or industriële applicaties bevorderend.",
-    "block.start_core.vat1": "§6Bacterial Breeding:",
-    "block.start_core.vat2": "§7Replicate and mutate bacterial colonies, producing a large amount for usage in Harvesting or Mutation.",
+    "block.start_core.vat1": "§6Bacterieël Fokken:",
+    "block.start_core.vat2": "§Repliceer en muteer bacteriële kolonieën, producing a large amount for usage in Harvesting or Mutation.",
     "block.start_core.vat3": "§7Produces §f16x Replicated§7 bacteria with the exact same type, stats and affinities.",
     "block.start_core.vat4": "§7Produces §f16x Mutated§7 bacteria with the exact same type and affinities, but mutated stats depending on the §fMutatability §7of the bacteria.",
     
